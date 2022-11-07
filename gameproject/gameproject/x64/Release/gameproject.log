@@ -1,0 +1,6 @@
+﻿  app.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  gameproject.vcxproj -> C:\SFML-2.5.1-windows-vc15-64-bit\gameproject\x64\Release\gameproject.exe

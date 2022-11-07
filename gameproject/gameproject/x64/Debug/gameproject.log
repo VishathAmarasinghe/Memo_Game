@@ -1,0 +1,16 @@
+﻿  app.cpp
+D:\UOK Lectures\1 year\Semester 1\Programming Concepts\Mini Game\Memo_Game\gameproject\gameproject\app.cpp(271,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UOK Lectures\1 year\Semester 1\Programming Concepts\Mini Game\Memo_Game\gameproject\gameproject\app.cpp(271,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UOK Lectures\1 year\Semester 1\Programming Concepts\Mini Game\Memo_Game\gameproject\gameproject\app.cpp(287,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UOK Lectures\1 year\Semester 1\Programming Concepts\Mini Game\Memo_Game\gameproject\gameproject\app.cpp(287,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UOK Lectures\1 year\Semester 1\Programming Concepts\Mini Game\Memo_Game\gameproject\gameproject\app.cpp(407,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UOK Lectures\1 year\Semester 1\Programming Concepts\Mini Game\Memo_Game\gameproject\gameproject\app.cpp(407,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UOK Lectures\1 year\Semester 1\Programming Concepts\Mini Game\Memo_Game\gameproject\gameproject\app.cpp(461,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UOK Lectures\1 year\Semester 1\Programming Concepts\Mini Game\Memo_Game\gameproject\gameproject\app.cpp(461,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UOK Lectures\1 year\Semester 1\Programming Concepts\Mini Game\Memo_Game\gameproject\gameproject\app.cpp(481,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\UOK Lectures\1 year\Semester 1\Programming Concepts\Mini Game\Memo_Game\gameproject\gameproject\app.cpp(481,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\UOK Lectures\1 year\Semester 1\Programming Concepts\Mini Game\Memo_Game\gameproject\gameproject\app.cpp(485,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\UOK Lectures\1 year\Semester 1\Programming Concepts\Mini Game\Memo_Game\gameproject\gameproject\app.cpp(485,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\UOK Lectures\1 year\Semester 1\Programming Concepts\Mini Game\Memo_Game\gameproject\gameproject\app.cpp(862,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\UOK Lectures\1 year\Semester 1\Programming Concepts\Mini Game\Memo_Game\gameproject\gameproject\app.cpp(862,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  gameproject.vcxproj -> D:\UOK Lectures\1 year\Semester 1\Programming Concepts\Mini Game\Memo_Game\gameproject\x64\Debug\gameproject.exe
